@@ -26,7 +26,7 @@ This project is a video summarizer that uses Python, PhiData, Streamlit, and the
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/harshamahadev13/video_summarizer
+    git clone https://github.com/harshamahadev13/video-summarizer-using-phidata-and-streamlit
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -75,18 +75,4 @@ This project is a video summarizer that uses Python, PhiData, Streamlit, and the
 ## Known Issues
 
 * Video files larger than 200MB are not supported.
-* [Add any other known issues]
 
-## Contact
-
-[Your contact information, e.g., email address or GitHub profile]
-
----
-
-**Note:**
-
-* Remember to create a `requirements.txt` file listing all the Python dependencies.
-* Replace placeholder values (e.g., `[your-repository-url]`, `[your-repository-directory]`, `[your_api_key]`, `app.py`) with your actual values.
-* If PhiData requires specific installation, provide details.
-* Add the license you are using.
-* If you have a logo, add it to the top of the readme.
