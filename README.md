@@ -76,4 +76,4 @@ This project is a video summarizer that uses Python, PhiData, Streamlit, and the
 ## Known Issues
 
 * Video files larger than 200MB are not supported.
-
+* Scaling up
