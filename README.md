@@ -52,6 +52,7 @@ This project is a video summarizer that uses Python, PhiData, Streamlit, and the
         * `set GOOGLE_API_KEY="your_api_key"` (Windows)
 
 
+
 ## Usage
 
 1.  **Run the Streamlit application:**
