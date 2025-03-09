@@ -1,6 +1,6 @@
 # Video Summarizer with Question Answering
 
-This project is a video summarizer that uses Python, PhiData, Streamlit, and the Gemini AI model to generate summaries and answer questions based on video content. It's designed to process videos under 200MB.
+This project is a video summarizer that uses Python, PhiData, Streamlit, and the Gemini AI model to generate summaries and answer questions based on video content. It's designed to process videos under 200MB Videos.
 
 ## Features
 
@@ -12,15 +12,13 @@ This project is a video summarizer that uses Python, PhiData, Streamlit, and the
 ## Technologies Used
 
 * **Python:** The core programming language.
-* **PhiData:** (Please specify what PhiData is used for, e.g. data processing, vector database, etc. If it is a private library, please add details on how to install it)
+* **PhiData:** Framework for building multi-modal agents and workflows
 * **Streamlit:** For creating the web application.
-* **Gemini AI Model:** For natural language understanding and generation.
+* **Gemini AI Model:** For computer vision, natural language understanding and generation.
 
 ## Prerequisites
 
-Before running the application, ensure you have the following installed:
-
-* Python (3.7+)
+* Python (3.12+)
 * pip (Python package installer)
 
 ## Installation
@@ -28,8 +26,7 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [your-repository-url]
-    cd [your-repository-directory]
+    git clone https://github.com/harshamahadev13/video_summarizer
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -54,18 +51,14 @@ Before running the application, ensure you have the following installed:
         * `export GOOGLE_API_KEY="your_api_key"` (macOS/Linux)
         * `set GOOGLE_API_KEY="your_api_key"` (Windows)
 
-5.  **PhiData Installation:**
-    * If PhiData is a custom or private library, add specific installation instructions here.
 
 ## Usage
 
 1.  **Run the Streamlit application:**
 
     ```bash
-    streamlit run app.py
+    streamlit run video_summarizer.py
     ```
-
-    (Replace `app.py` with the name of your Streamlit script.)
 
 2.  **Open the application in your browser:**
 
