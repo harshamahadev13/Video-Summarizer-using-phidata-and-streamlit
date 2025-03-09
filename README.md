@@ -70,19 +70,7 @@ This project is a video summarizer that uses Python, PhiData, Streamlit, and the
 4.  **Summarize or Ask Questions:**
     * Use the provided interface to generate a summary or ask questions about the video.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them.
-4.  Push your changes to your fork.
-5.  Submit a pull request.
-
-## License
-
-[Add your license here, e.g., MIT License]
 
 ## Known Issues
 
